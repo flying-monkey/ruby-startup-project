@@ -1,0 +1,19 @@
+inital
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Thu Apr 6 23:50:00 2017 +0100
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   Gemfile
+#	new file:   Gemfile.lock
+#	new file:   lib/.DS_Store
+#	new file:   lib/00_hello.rb
+#	new file:   spec/.DS_Store
+#	new file:   spec/00_hello_spec.rb
+#
